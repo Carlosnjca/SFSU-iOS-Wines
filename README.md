@@ -48,6 +48,6 @@ NOTE:
 This proposal is subject to change as the developing face begins
 
 Why this idea:
-  I like taking friends to the wineries when they visit me from out of state.  I usually have to be using the browser to do individual searches.  This app would make it easier to wine lovers to have access to this information from the main page of the app.  Additional features or search results could be display in secondary pages.
+   I like taking friends to the wineries when they visit me from out of state.  I usually have to be using the browser to do individual searches.  This app would make it easier to wine lovers to have access to this information from the main page of the app.  Additional features or search results could be display in secondary pages.
 
 
